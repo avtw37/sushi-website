@@ -6,8 +6,8 @@ learn more about web development and get familar with web design.
 * Getting familar with Web Designing and Javascript.
 * You can also use this for any purpose or getting hands on experience.
 
-here is the link to the demo website [Sushi Monster]
-(https://avtw37.github.io/sushi-website/)
+
+Link to the demo website [Sushi Monster](https://avtw37.github.io/sushi-website/)
 
 <img width="1189" alt="sushi" src="https://user-images.githubusercontent.com/43705850/60319732-4367d600-992c-11e9-84e9-5fbda907f3ee.png">
 
